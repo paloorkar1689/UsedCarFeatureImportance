@@ -10,7 +10,7 @@ This is a Kaggle dataset which can be found in the data folder.
 I am following the CRISP-DM Framework for this analysis. 
 
 <p align="center">
-  <img src=“images/“crisp.png>
+  <img src=“images/crisp.png">
 </p>
 
 ### 1 - Business Understanding
@@ -39,8 +39,8 @@ I am following the CRISP-DM Framework for this analysis.
                 -   Drive and paint_color has 130k missing entries.
 
     **2.3 Data Exploration**
-        ⁃	Check the describe function to identify the mean and standard deviation
-        ⁃	Identify unique values for Categorical
+        -	Check the describe function to identify the mean and standard deviation
+        -	Identify unique values for Categorical
         -   Identify missing data, 
                 -   size has 300k missing entries 
                 -   condition and cylinders have 175k missing entries
