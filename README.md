@@ -1,5 +1,5 @@
 #  What drives the price of a car?
-![Cars](images/cars.jpeg)
+![Cars](images/cars.jpg)
 
 ## Overview
 This used car dataset has been retrieved from Kaggle. The original dataset had over 3 million entries. 
