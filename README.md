@@ -8,6 +8,7 @@ The goal is determining what factors make a car more or less expensive.
 This is a Kaggle dataset which can be found in the data folder.
 
 I am following the CRISP-DM Framework for this analysis. 
+Here is the link for Jupiter notebook https://github.com/paloorkar1689/UsedCarFeatureImportance/blob/main/car_price.ipynb
 
 ### 1 - Business Understanding
     1.1 - Data problem definition
