@@ -9,10 +9,6 @@ This is a Kaggle dataset which can be found in the data folder.
 
 I am following the CRISP-DM Framework for this analysis. 
 
-<p align="center">
-  <img src=“images/“crisp.png>
-</p>
-
 ### 1 - Business Understanding
     1.1 - Data problem definition
         The goal of this problem is to develop a predictive model that will correctly predict the prices of used cars based on various features
@@ -141,6 +137,8 @@ I am following the CRISP-DM Framework for this analysis.
             - cylinder, condition, type,
         - Negative coefficients for Ridge 
             -   Age, Fuel, odometer
+
+![Image description](images/PermutationImportance.png)
 
 ### 6 - Deployment
     6.1 Overview
