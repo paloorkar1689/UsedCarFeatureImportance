@@ -10,7 +10,7 @@ This is a Kaggle dataset which can be found in the data folder.
 I am following the CRISP-DM Framework for this analysis. 
 
 <p align="center">
-  <img src=“images/crisp.png">
+  <img src=“[images/crisp.png](https://github.com/paloorkar1689/UsedCarFeatureImportance/blob/main/images/crisp.png)">
 </p>
 
 ### 1 - Business Understanding
