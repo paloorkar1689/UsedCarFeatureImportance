@@ -1,11 +1,10 @@
 #  What drives the price of a car?
+![Cars](images/cars.jpeg)
 
 ## Overview
 This used car dataset has been retrieved from Kaggle. The original dataset had over 3 million entries. 
 For the sake of processing, only 426k entries were selected. 
 The goal is determining what factors make a car more or less expensive. 
-
-This is a Kaggle dataset which can be found in the data folder.
 
 I am following the CRISP-DM Framework for this analysis. 
 Here is the link for Jupiter notebook https://github.com/paloorkar1689/UsedCarFeatureImportance/blob/main/car_price.ipynb
@@ -139,7 +138,7 @@ Here is the link for Jupiter notebook https://github.com/paloorkar1689/UsedCarFe
         - Negative coefficients for Ridge 
             -   Age, Fuel, odometer
 
-![Image description](images/PermutationImportance.png)
+![Permutation Impotance](images/PermutationImportance.png)
 
 ### 6 - Deployment
     6.1 Overview
