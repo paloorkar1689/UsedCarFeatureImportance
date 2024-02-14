@@ -122,7 +122,8 @@ Here is the link for Jupiter notebook https://github.com/paloorkar1689/UsedCarFe
             -   Reduction of the missing samples with NaN to avoid considerable fit time in RFR
             -   Tried similar with one-hot encoding which yields different results.
             -   The odometer has some anomalies in the data which need to be revisited. 
-            -   paint colour and state did not contribute to the results. This may be omitted
+            -   Paint colour and state did not contribute to the results. This may be omitted
+	    -   Various features have categories such as others which should be cleaned and replaced appropriately.
 
     5.3 Results
         -   Model Performance
